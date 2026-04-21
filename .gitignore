@@ -1,0 +1,31 @@
+# Data files (VERY IMPORTANT)
+data/
+*.csv
+*.xlsx
+
+# Model files
+models/
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+
+
