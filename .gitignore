@@ -5,7 +5,6 @@ data/
 
 # Model files
 models/
-*.pkl
 *.joblib
 
 # Python cache
